@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**casado01/casado01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DIAS01/DIAS01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
